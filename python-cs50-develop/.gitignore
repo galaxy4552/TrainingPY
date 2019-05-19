@@ -1,0 +1,7 @@
+.*
+!.gitignore
+!.travis.yml
+dist/
+*.db
+*.egg-info/
+*.pyc
